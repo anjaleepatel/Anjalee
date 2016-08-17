@@ -23,13 +23,13 @@ summary(cars)
     ##  3rd Qu.:19.0   3rd Qu.: 56.00  
     ##  Max.   :25.0   Max.   :120.00
 
-Including Plots
----------------
+Including Plots is easy
+-----------------------
 
 You can also embed plots, for example:
 
 ``` r
-plot(pressure, xlab="Something else")
+plot(pressure, xlab="Something else", col="blue")
 ```
 
 ![](rstudio_play_files/figure-markdown_github/unnamed-chunk-1-1.png)
